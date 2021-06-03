@@ -99,12 +99,12 @@
                     android:layout_marginTop="25sp"
                     android:layout_marginBottom="5sp"/>
                 <TextView
-                    android:layout_width="90sp"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Pay to contact"
                     android:gravity="center"
                     android:textColor="@color/maroon"
-                    android:layout_marginBottom="25sp"
+                    android:layout_marginBottom="35sp"
                     android:layout_gravity="center"/>
             </LinearLayout>
             <LinearLayout
